@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="txtc">Capital</string>
+    <string name="txtt">Tasa de Interes</string>
+    <string name="txtp">Num de Periodos</string>
+    <string name="btnc">Calcular</string>
+    <string name="txti">Interes Correspondiente</string>
+</resources>
